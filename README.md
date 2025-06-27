@@ -93,29 +93,23 @@ Fone, R$150.00, Quantidade: 2, Subtotal: R$300.00
 Total preço: R$1500.00
 ```
 
-
+```
 ## 📌 Conceitos aplicados
 
 * Encapsulamento
 * Composição de objetos
 * Reutilização de código
 * Boas práticas de modelagem com POO
+```
 
 ## 👨‍💻 Autor
 
 **Heitor Santana**
 
 📧 \[[heitor0907@email.com](mailto:heitor0907@gmail.com)]
-<p></p>
-🔗 [linkedin.com/in/heitor-santana](https://www.linkedin.com/in/heitor-santana-a231a830b/)
 
----
 
-Sinta-se à vontade para abrir issues ou contribuir com sugestões e melhorias! 🚀
 
 ```
 
----
 
-Se quiser, posso gerar esse arquivo `.md` pronto para você subir no repositório. Deseja isso?
-```
