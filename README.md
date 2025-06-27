@@ -1,7 +1,3 @@
-Claro! Abaixo está um exemplo de um `README.md` profissional e bem estruturado para você colocar no seu repositório GitHub. Ele explica o objetivo do projeto, as tecnologias utilizadas, como rodar o programa e outras informações úteis:
-
----
-
 ```markdown
 # 📦 Sistema de Pedidos em Java
 
