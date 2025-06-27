@@ -60,8 +60,7 @@ java application.Program
 
 ## 📝 Exemplo de Saída
 
-```
-```
+
 Adicione o cliente:
 Nome: João Silva
 Email: joao@gmail.com
@@ -91,9 +90,7 @@ Itens Pedido:
 Celular, R$1200.00, Quantidade: 1, Subtotal: R$1200.00
 Fone, R$150.00, Quantidade: 2, Subtotal: R$300.00
 Total preço: R$1500.00
-```
 
-```
 ## 📌 Conceitos aplicados
 
 * Encapsulamento
@@ -101,6 +98,7 @@ Total preço: R$1500.00
 * Reutilização de código
 * Boas práticas de modelagem com POO
 ```
+
 
 ## 👨‍💻 Autor
 
@@ -110,6 +108,5 @@ Total preço: R$1500.00
 
 
 
-```
 
 
