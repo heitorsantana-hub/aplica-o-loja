@@ -1,3 +1,8 @@
+Claro! Abaixo está um exemplo de um `README.md` profissional e bem estruturado para você colocar no seu repositório GitHub. Ele explica o objetivo do projeto, as tecnologias utilizadas, como rodar o programa e outras informações úteis:
+
+---
+
+```markdown
 # 📦 Sistema de Pedidos em Java
 
 Este projeto é uma aplicação Java simples baseada em orientação a objetos, que simula um sistema de pedidos com clientes, produtos e status do pedido.
@@ -20,6 +25,8 @@ Este projeto é uma aplicação Java simples baseada em orientação a objetos, 
 
 ## 📂 Estrutura do Projeto
 
+```
+
 src/
 ├── application/
 │   └── Program.java
@@ -31,33 +38,34 @@ src/
 └── enums/
 └── StatusPedido.java
 
+````
 
 ## ▶️ Como executar
 
 1. Clone o repositório:
 
-bash
+```bash
 git clone https://github.com/seuusuario/nome-do-repositorio.git
 cd nome-do-repositorio
-
+````
 
 2. Compile os arquivos:
 
-bash
+```bash
 javac application/Program.java
-
+```
 
 3. Execute o programa:
 
-bash
+```bash
 java application.Program
-
+```
 
 4. Siga as instruções no terminal para cadastrar um cliente, definir os itens do pedido e visualizar o resumo final.
 
 ## 📝 Exemplo de Saída
 
-
+```
 Adicione o cliente:
 Nome: João Silva
 Email: joao@gmail.com
@@ -87,7 +95,7 @@ Itens Pedido:
 Celular, R$1200.00, Quantidade: 1, Subtotal: R$1200.00
 Fone, R$150.00, Quantidade: 2, Subtotal: R$300.00
 Total preço: R$1500.00
-
+```
 
 ## 📌 Conceitos aplicados
 
@@ -99,8 +107,8 @@ Total preço: R$1500.00
 ## 👨‍💻 Autor
 
 **Heitor Santana**
-📧 \[[seu-email@email.com](mailto:heitoreis0907@gmail.com)]
-🔗 [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/heitor-santana-a231a830b/)
+📧 \[[heitor0907@email.com](mailto:heitor0907@gmail.com)]
+🔗 [linkedin.com/in/heitor-santana](https://www.linkedin.com/in/heitor-santana-a231a830b/)
 
 ---
 
