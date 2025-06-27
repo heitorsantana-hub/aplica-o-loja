@@ -25,7 +25,6 @@ Este projeto é uma aplicação Java simples baseada em orientação a objetos, 
 
 ## 📂 Estrutura do Projeto
 
-```
 
 src/
 ├── application/
@@ -38,7 +37,6 @@ src/
 └── enums/
 └── StatusPedido.java
 
-````
 
 ## ▶️ Como executar
 
@@ -47,24 +45,22 @@ src/
 ```bash
 git clone https://github.com/seuusuario/nome-do-repositorio.git
 cd nome-do-repositorio
-````
 
 2. Compile os arquivos:
 
 ```bash
 javac application/Program.java
-```
 
 3. Execute o programa:
 
 ```bash
 java application.Program
-```
 
 4. Siga as instruções no terminal para cadastrar um cliente, definir os itens do pedido e visualizar o resumo final.
 
 ## 📝 Exemplo de Saída
 
+```
 ```
 Adicione o cliente:
 Nome: João Silva
@@ -97,6 +93,7 @@ Fone, R$150.00, Quantidade: 2, Subtotal: R$300.00
 Total preço: R$1500.00
 ```
 
+
 ## 📌 Conceitos aplicados
 
 * Encapsulamento
@@ -107,7 +104,9 @@ Total preço: R$1500.00
 ## 👨‍💻 Autor
 
 **Heitor Santana**
+
 📧 \[[heitor0907@email.com](mailto:heitor0907@gmail.com)]
+<p></p>
 🔗 [linkedin.com/in/heitor-santana](https://www.linkedin.com/in/heitor-santana-a231a830b/)
 
 ---
